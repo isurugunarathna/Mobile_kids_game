@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Gaming</string>
+    <string name="next_lvl">Next Level</string>
+    <string name="num_3">Number_03</string>
+    <string name="num_04">Number_04</string>
+    <string name="num_9">Number_09</string>
+    <string name="Box">Box_icon</string>
+    <string name="num_07">Number_07</string>
+    <string name="num_05">Number_05</string>
+    <string name="num_21">Number_21</string>
+    <string name="num_42">Number_42</string>
+    <string name="num_22">Number_22</string>
+    <string name="num_63">Number_63</string>
+    <string name="num_70">Number_70</string>
+    <string name="dustbin_icon">Wrong_Answers</string>
+    <string name="btn_nxt">Going_To_Next_Level</string>
+    <string name="time_count">Time count</string>
+    <string name="quest_01">Drag numbers divided by 03</string>
+    <string name="quest_02">Drag numbers divided by 07</string>
+    <string name="quest_03">Drag numbers divided by 03 and 07</string>
+    <string name="quest_04">   Drag numbers divided by 03 and 07, and multiples of 2 </string>
+    <string name="btnNext">Start New Game</string>
+    <string name="btnBack">Back</string>
+    <string name="btnAbout">About</string>
+    <string name="btnHelp">Help</string>
+    <string name="btnClearData">Clear Data</string>
+    <string name="btnHighScore">High Score</string>
+    <string name="btnLevel01">LEVEL 1</string>
+    <string name="btnLevel02">LEVEL 2</string>
+    <string name="btnLevel03">LEVEL 3</string>
+    <string name="btnLevel04">LEVEL 4</string>
+    <string name="txtAbout">Thi game developed by MADDISC G11-22</string>
+    <string name="txtHelp"> 1.1th LEVEL you should drag to the box number which divided by 02
+                            1.2th LEVEL you should drag to the box number which divided by 03
+                            1.3th LEVEL you should drag to the box number which divided by both
+                            2.1th LEVEL you should drag to the box number which divided by 03
+                            2.2th LEVEL you should drag to the box number which divided by 04
+                            2.3th LEVEL you should drag to the box number which divided by both
+                            3.1th LEVEL you should drag to the box number which divided by 04
+                            3.2th LEVEL you should drag to the box number which divided by 05
+                            3.3th LEVEL you should drag to the box number which divided by both
+                            4.1th LEVEL you should drag to the box number which divided by 05
+                            4.2th LEVEL you should drag to the box number which divided by 06
+                            4.3th LEVEL you should drag to the box number which divided by both
+
+                         </string>
+
+
+</resources>
